@@ -30,7 +30,6 @@ int main(){
 		cout << item << " ";
 	}
 	
-	
 	//MAP
 	map<char, int> mymap;
 	mymap.insert(pair<char, int>('a', 100));
