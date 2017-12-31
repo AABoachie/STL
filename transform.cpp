@@ -22,6 +22,11 @@ int main(){
 			  
 	copy(vec3.begin(), vec3.end(), ostream_iterator<int>(cout, " "));
 	
+	<div class = "tabs">close</div>
+	
+	$(".tabs").click(function(){
+	
+	});
 	
 	//swap is a two way copy
 	//fill, and genearte
